@@ -1,0 +1,35 @@
+/* Custom page CSS
+-------------------------------------------------- */
+/* Not required for template or sticky footer method. */
+
+main > .container {
+  padding: 60px 15px 0;
+}
+
+.footer {
+  height: 80px;
+  background-color: #115D8F;
+  background-image: url("img/NOAA-Banner.png");
+  background-size:contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  -moz-box-shadow:    0px 0px 10px 3px #BBC;
+  -webkit-box-shadow: 0px 0px 10px 3px #BBC;
+  box-shadow:0px 0px 10px 3px #BBC;
+}
+
+.navbar .navbar-expand-md .navbar-dark .fixed-top .bg-dark {
+  background-color: #115D8F;
+  border-bottom: 1px solid #3475b3;
+  -moz-box-shadow:    0px 0px 10px 3px #BBC;
+  -webkit-box-shadow: 0px 0px 10px 3px #BBC;
+  box-shadow:         0px 0px 10px 3px #BBC;
+  color: #EEE;
+  text-align: center;
+  padding: 8px;
+}
+
+
+code {
+  font-size: 80%;
+}
