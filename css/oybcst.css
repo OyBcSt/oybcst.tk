@@ -9,7 +9,7 @@ main > .container {
 .footer {
   height: 80px;
   background-color: #115D8F;
-  background-image: url("img/NOAA-Banner.png");
+  background-image: url("/img/NOAA-Banner.png");
   background-size:contain;
   background-repeat: no-repeat;
   background-position: center;
